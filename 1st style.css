@@ -176,8 +176,54 @@ button{
     100%{color:#00eeff;}
 }
 
-/* @media only screen and (max-width: 1180px){
-    .d1 .d2 .d3 .d4 .d5 .d6 {
-        width: ;
+@media only screen and (max-width: 1400px){
+        form {
+        width: 80px;
+        margin: 5vh;
     }
-} */
+}
+
+@media only screen and (max-width: 1400px){
+    td {
+        padding: 2vh;
+     }
+}
+
+@media only screen and (max-width: 1289px){
+    .d5 table{
+        padding-left: 200px;
+    }
+}
+
+@media only screen and (max-width: 1250px){
+    .d5 table{
+        padding-left: 130px;
+    }
+}
+
+@media only screen and (max-width: 1289px){
+    .d5 table{
+        padding-left: 90px;
+        }
+}
+
+@media only screen and (max-width: 1111px){
+    .d5 table{
+        padding-left:70px;
+        }
+
+}
+
+@media only screen and (max-width: 942px){
+    .d5 table{
+        padding-left:50px;
+        }
+    
+}
+
+@media only screen and (max-width: 1111px){
+    .d5 table{
+        padding-left:30%;
+        }
+    
+}
